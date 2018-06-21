@@ -8,14 +8,14 @@ Install
 =======
 
 ```python
-python setup.py install
+sudo python setup.py install
 ```
 
 Usage
 =====
 
 ```
-usage: diskspace.py [-h] [-o {desc,asc}] [-s HIDE] [-a | -d DEPTH] [-t] [DIR]
+usage: diskspace [-h] [-o {desc,asc}] [-s HIDE] [-a | -d DEPTH] [-t] [DIR]
 
 Analizes and reports the disk usage per folder
 
