@@ -11,6 +11,13 @@ Install
 sudo python setup.py install
 ```
 
+Test
+=====
+
+```python
+python2 diskspace/test.py
+```
+
 Usage
 =====
 
